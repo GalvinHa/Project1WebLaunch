@@ -2,7 +2,7 @@
 
 Pink Water - Santa Clara
 
-[Visit Pinkwater Santa Clara Website]: (https://pinkwater-santaclara.netlify.app/)
+[Visit Pinkwater Santa Clara Website](https://pinkwater-santaclara.netlify.app/)
 
 
 #### Topics
