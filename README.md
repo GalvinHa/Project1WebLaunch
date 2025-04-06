@@ -1,14 +1,9 @@
 # Group Project #1 Gr-10
 
 Pink Water - Santa Clara
-## Planned Sections
-### Intro
 
-### Facts
+[Visit Pinkwater Santa Clara Website]: (https://pinkwater-santaclara.netlify.app/)
 
-### Climate Change Section
-
-### Footer
 
 #### Topics
 - why is it pink?
@@ -25,6 +20,13 @@ Pink Water - Santa Clara
 * Soft Blue (#A7C7E7) - idk
 
 #### Font Choice
+
+  Headings: 
+  font-family: "Libre Baskerville", serif; 
+
+  Body: 
+  font-family: "Nunito Sans", sans-serif;
+
 
 
 video element (video of the area)
