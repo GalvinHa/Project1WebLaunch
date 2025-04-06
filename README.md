@@ -27,14 +27,10 @@ Pink Water - Santa Clara
   Body: 
   font-family: "Nunito Sans", sans-serif;
 
-
-
-video element (video of the area)
-
-- [ ] Mobile design
-- [ ] Desktop design
-- [ ] Accessiblity / Readability
-- [ ] Social Media Icons in the footer
-- [ ] Sticky navbar
-- [ ] 6 facts
+- [x] Mobile design
+- [x] Desktop design
+- [x] Accessiblity / Readability
+- [x] Social Media Icons in the footer
+- [x] Sticky navbar
+- [x] fun facts
 
